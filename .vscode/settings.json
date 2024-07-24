@@ -1,0 +1,5 @@
+{
+    "playwright.testDir": "./tests", // Asegúrate de que esta ruta coincide con la carpeta donde tienes tus tests
+    "playwright.configPath": "./playwright.config.ts"
+  }
+  
